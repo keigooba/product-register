@@ -87,3 +87,4 @@ production:
 #   database: product-register_production
 #   username: product-register
 #   password: <%= ENV['PRODUCT-REGISTER_DATABASE_PASSWORD'] %>
+#
